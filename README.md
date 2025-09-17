@@ -10,6 +10,6 @@
 - [Projeto-03](https://erik13639.github.io/Projeto-03/)
 - [Projeto-04](https://erik13639.github.io/Projeto-04/)
 - [Projeto-05](https://erik13639.github.io/Projeto-05/)
-- [Projeto-06]()
+- [Projeto-06](https://erik13639.github.io/Projeto-06/)
 - [Projeto-07]()
 
