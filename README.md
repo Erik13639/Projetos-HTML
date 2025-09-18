@@ -1,7 +1,7 @@
 # Projetos-HTML
 **Desenvolvimento_Web-2025-TIP4**
 
-**Estudante:** Francisco Erik Arújo Barbosa
+**Estudante:** Francisco Erik Araújo Barbosa
 
 **Professor:** Thomaz Maia  
 
